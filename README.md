@@ -1,1 +1,1 @@
-# Hand_Tracking_using_OpenCV
+# Hand Tracking using OpenCV
